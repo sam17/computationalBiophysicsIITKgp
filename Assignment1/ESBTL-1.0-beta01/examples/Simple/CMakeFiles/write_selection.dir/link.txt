@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/write_selection.dir/write_selection.o  -o write_selection -rdynamic 

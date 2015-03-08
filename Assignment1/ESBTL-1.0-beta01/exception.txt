@@ -1,0 +1,9 @@
+Additional permission under GNU GPL version 3 section 7
+
+If you modify this Library, or any covered work, by linking or
+combining it with CGAL (or a modified version of that library), the
+licensors of this Library grant you additional permission to convey
+the resulting work. Corresponding Source for a non-source form of
+such a combination shall include the source code for the parts of CGAL
+used as well as that of the covered work. 
+

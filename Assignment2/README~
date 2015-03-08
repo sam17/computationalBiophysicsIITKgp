@@ -1,0 +1,21 @@
+/**************************************/
+Assignment 2: COmputational Biophysics
+/**************************************/
+
+Protein Sequence Pair-wise alinment using Dynamic Programming based Needleman–Wunsch algorithm.
+
+Input: Two Protein Sequences in FASTA format + Gap Weight
+Output: Aligned Sequences + Alignment Score
+
+Running Method:
+
+Build:
+
+g++ assignment2.cpp
+
+Run:
+
+./a.out <inputData >outputData
+
+
+Edit input file to change input and see output files for aligned sequences.

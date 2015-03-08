@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/select_in_reader.dir/select_in_reader.o  -o select_in_reader -rdynamic 

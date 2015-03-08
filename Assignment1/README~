@@ -1,0 +1,17 @@
+/**************************************/
+ASSIGNMENT 1: COMPUTATIONAL BIOPHYSICS
+/**************************************/
+
+The project parses through a specified PDB file and reads the atoms in a given chain and then caclulates the dihedral angles PHI, PSI and OMEGA.
+
+Running:
+
+1. Extract Zip
+2. Go to the directory on terminal.
+3. Type: cmake .
+4. Type: make
+5. Type: ./pdbRead <PDB FILE> >out
+	Example: ./pdbRead 12AS.pdb >out
+
+
+This writes out the dihedral angles of chain specified of given PDB file in file named out.

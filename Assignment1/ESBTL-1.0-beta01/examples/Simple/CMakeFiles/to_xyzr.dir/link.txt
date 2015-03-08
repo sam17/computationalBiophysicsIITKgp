@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/to_xyzr.dir/to_xyzr.o  -o to_xyzr -rdynamic 
